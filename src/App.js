@@ -14,9 +14,11 @@ class App extends React.Component {
       cartItems: localStorage.getItem("cartItems")
         ? JSON.parse(localStorage.getItem("cartItems"))
         : [],
-      // cartItems: [],
     };
   }
+  createOrder = (order) => {
+    alert("push the data " + order.name);
+  };
   sortProducts = (event) => {
     console.log(event.target.value);
     const sort = event.target.value;
@@ -105,6 +107,7 @@ class App extends React.Component {
             <Cart
               cartItems={this.state.cartItems}
               removeFromCart={this.removeFromCart}
+              createOrder={this.createOrder}
             ></Cart>
           </div>
         </main>
