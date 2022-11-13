@@ -34,13 +34,19 @@ class App extends React.Component {
     }));
   };
   filterProducts = (event) => {
-    console.log(event.target.value);
-    this.setState({
-      size: event.target.value,
-      products: data.products.filter(
-        (product) => product.availableSizes.indexOf(event.target.value) >= 0
-      ),
-    });
+    if (event.target.value === "") {
+      this.setState({
+        size: event.target.value,
+        products: data.products,
+      });
+    } else {
+      this.setState({
+        size: event.target.value,
+        products: data.products.filter(
+          (product) => product.availableSizes.indexOf(event.target.value) >= 0
+        ),
+      });
+    }
   };
   render() {
     return (
