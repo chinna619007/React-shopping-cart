@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import formCurrency from "../utils";
 class Cart extends Component {
   render() {
     const { cartItems } = this.props;
@@ -18,6 +19,16 @@ class Cart extends Component {
                 <li key={item._id}>
                   <div>
                     <img src={item.image} alt={item.title}></img>
+                  </div>
+                  <div> {item.title}</div>
+                  <div className="right">
+                    {formCurrency(item.price)} * {item.count}
+                    <button
+                      className="button"
+                      onClick={() => this.props.removeFromCart(item)}
+                    >
+                      Remove
+                    </button>
                   </div>
                 </li>
               ))}
