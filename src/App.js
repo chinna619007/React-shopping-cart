@@ -111,7 +111,7 @@ class App extends React.Component {
             ></Cart>
           </div>
         </main>
-        <footer>E-commerce on React</footer>
+        <footer>React E-commerce Site</footer>
       </div>
     );
   }
