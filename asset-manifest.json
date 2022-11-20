@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/react-shopping-cart/static/css/main.39499631.chunk.css",
-    "main.js": "/github.io/react-shopping-cart/static/js/main.4751f045.chunk.js",
-    "main.js.map": "/github.io/react-shopping-cart/static/js/main.4751f045.chunk.js.map",
-    "runtime-main.js": "/github.io/react-shopping-cart/static/js/runtime-main.0d5f4750.js",
-    "runtime-main.js.map": "/github.io/react-shopping-cart/static/js/runtime-main.0d5f4750.js.map",
-    "static/js/2.b10eacbc.chunk.js": "/github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js",
-    "static/js/2.b10eacbc.chunk.js.map": "/github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js.map",
-    "index.html": "/github.io/react-shopping-cart/index.html",
-    "precache-manifest.2c914236368c1ad9886f7987ec84a8be.js": "/github.io/react-shopping-cart/precache-manifest.2c914236368c1ad9886f7987ec84a8be.js",
-    "service-worker.js": "/github.io/react-shopping-cart/service-worker.js",
-    "static/css/main.39499631.chunk.css.map": "/github.io/react-shopping-cart/static/css/main.39499631.chunk.css.map",
-    "static/js/2.b10eacbc.chunk.js.LICENSE.txt": "/github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js.LICENSE.txt"
+    "main.css": "/chinna619007.github.io/react-shopping-cart/static/css/main.39499631.chunk.css",
+    "main.js": "/chinna619007.github.io/react-shopping-cart/static/js/main.566d2d54.chunk.js",
+    "main.js.map": "/chinna619007.github.io/react-shopping-cart/static/js/main.566d2d54.chunk.js.map",
+    "runtime-main.js": "/chinna619007.github.io/react-shopping-cart/static/js/runtime-main.6baed066.js",
+    "runtime-main.js.map": "/chinna619007.github.io/react-shopping-cart/static/js/runtime-main.6baed066.js.map",
+    "static/js/2.b10eacbc.chunk.js": "/chinna619007.github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js",
+    "static/js/2.b10eacbc.chunk.js.map": "/chinna619007.github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js.map",
+    "index.html": "/chinna619007.github.io/react-shopping-cart/index.html",
+    "precache-manifest.7495d325043ff9f25cab003d6ac0f2de.js": "/chinna619007.github.io/react-shopping-cart/precache-manifest.7495d325043ff9f25cab003d6ac0f2de.js",
+    "service-worker.js": "/chinna619007.github.io/react-shopping-cart/service-worker.js",
+    "static/css/main.39499631.chunk.css.map": "/chinna619007.github.io/react-shopping-cart/static/css/main.39499631.chunk.css.map",
+    "static/js/2.b10eacbc.chunk.js.LICENSE.txt": "/chinna619007.github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d5f4750.js",
+    "static/js/runtime-main.6baed066.js",
     "static/js/2.b10eacbc.chunk.js",
     "static/css/main.39499631.chunk.css",
-    "static/js/main.4751f045.chunk.js"
+    "static/js/main.566d2d54.chunk.js"
   ]
 }
