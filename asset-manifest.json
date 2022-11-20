@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chinna619007.github.io/react-shopping-cart/static/css/main.39499631.chunk.css",
-    "main.js": "/chinna619007.github.io/react-shopping-cart/static/js/main.566d2d54.chunk.js",
-    "main.js.map": "/chinna619007.github.io/react-shopping-cart/static/js/main.566d2d54.chunk.js.map",
+    "main.js": "/chinna619007.github.io/react-shopping-cart/static/js/main.7a6278c7.chunk.js",
+    "main.js.map": "/chinna619007.github.io/react-shopping-cart/static/js/main.7a6278c7.chunk.js.map",
     "runtime-main.js": "/chinna619007.github.io/react-shopping-cart/static/js/runtime-main.6baed066.js",
     "runtime-main.js.map": "/chinna619007.github.io/react-shopping-cart/static/js/runtime-main.6baed066.js.map",
     "static/js/2.b10eacbc.chunk.js": "/chinna619007.github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js",
     "static/js/2.b10eacbc.chunk.js.map": "/chinna619007.github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js.map",
     "index.html": "/chinna619007.github.io/react-shopping-cart/index.html",
-    "precache-manifest.7495d325043ff9f25cab003d6ac0f2de.js": "/chinna619007.github.io/react-shopping-cart/precache-manifest.7495d325043ff9f25cab003d6ac0f2de.js",
+    "precache-manifest.d0c79480cd63b03fa2c0c7ad925cb8c0.js": "/chinna619007.github.io/react-shopping-cart/precache-manifest.d0c79480cd63b03fa2c0c7ad925cb8c0.js",
     "service-worker.js": "/chinna619007.github.io/react-shopping-cart/service-worker.js",
     "static/css/main.39499631.chunk.css.map": "/chinna619007.github.io/react-shopping-cart/static/css/main.39499631.chunk.css.map",
     "static/js/2.b10eacbc.chunk.js.LICENSE.txt": "/chinna619007.github.io/react-shopping-cart/static/js/2.b10eacbc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6baed066.js",
     "static/js/2.b10eacbc.chunk.js",
     "static/css/main.39499631.chunk.css",
-    "static/js/main.566d2d54.chunk.js"
+    "static/js/main.7a6278c7.chunk.js"
   ]
 }
